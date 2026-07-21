@@ -1,0 +1,982 @@
+[
+  {
+    "ticker": "NVDA",
+    "industry_name": "Semiconductors"
+  },
+  {
+    "ticker": "NVDA",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "NVDA",
+    "industry_name": "Electronics"
+  },
+  {
+    "ticker": "NVDA",
+    "industry_name": "Dow jones"
+  },
+  {
+    "ticker": "NVDA",
+    "industry_name": "Tech Hardware"
+  },
+  {
+    "ticker": "NVDA",
+    "industry_name": "Autonomous driving"
+  },
+  {
+    "ticker": "NVDA",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "AAPL",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "AAPL",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "AAPL",
+    "industry_name": "Electronics"
+  },
+  {
+    "ticker": "AAPL",
+    "industry_name": "Dow jones"
+  },
+  {
+    "ticker": "AAPL",
+    "industry_name": "Tech Hardware"
+  },
+  {
+    "ticker": "AAPL",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "GOOG",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "GOOG",
+    "industry_name": "Internet"
+  },
+  {
+    "ticker": "GOOG",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "GOOG",
+    "industry_name": "Dow jones"
+  },
+  {
+    "ticker": "GOOG",
+    "industry_name": "Autonomous driving"
+  },
+  {
+    "ticker": "GOOG",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "MSFT",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "MSFT",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "MSFT",
+    "industry_name": "Video games"
+  },
+  {
+    "ticker": "MSFT",
+    "industry_name": "Dow jones"
+  },
+  {
+    "ticker": "MSFT",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "META",
+    "industry_name": "Internet"
+  },
+  {
+    "ticker": "META",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "META",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "SPCX",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "SPCX",
+    "industry_name": "Aerospace"
+  },
+  {
+    "ticker": "SPCX",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "TSLA",
+    "industry_name": "Automakers"
+  },
+  {
+    "ticker": "TSLA",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "TSLA",
+    "industry_name": "Electric Vehicles"
+  },
+  {
+    "ticker": "TSLA",
+    "industry_name": "Bitcoin"
+  },
+  {
+    "ticker": "TSLA",
+    "industry_name": "Manufacturing"
+  },
+  {
+    "ticker": "TSLA",
+    "industry_name": "EV charging"
+  },
+  {
+    "ticker": "TSLA",
+    "industry_name": "Autonomous driving"
+  },
+  {
+    "ticker": "TSLA",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "ORCL",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "ORCL",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "ORCL",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "PLTR",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "PLTR",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "PLTR",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "BABA",
+    "industry_name": "E-Commerce"
+  },
+  {
+    "ticker": "BABA",
+    "industry_name": "Retail"
+  },
+  {
+    "ticker": "BABA",
+    "industry_name": "Internet"
+  },
+  {
+    "ticker": "BABA",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "BABA",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "IBM",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "IBM",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "IBM",
+    "industry_name": "Dow jones"
+  },
+  {
+    "ticker": "IBM",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "688256.SS",
+    "industry_name": "Semiconductors"
+  },
+  {
+    "ticker": "688256.SS",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "688256.SS",
+    "industry_name": "Tech Hardware"
+  },
+  {
+    "ticker": "688256.SS",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "ADBE",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "ADBE",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "ADBE",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "2513.HK",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "2513.HK",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "2513.HK",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "CRWV",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "CRWV",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "CBRS",
+    "industry_name": "Semiconductors"
+  },
+  {
+    "ticker": "CBRS",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "CBRS",
+    "industry_name": "Tech Hardware"
+  },
+  {
+    "ticker": "CBRS",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "DT",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "DT",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "DT",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "AUR",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "AUR",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "AUR",
+    "industry_name": "Autonomous driving"
+  },
+  {
+    "ticker": "AUR",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "0100.HK",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "0100.HK",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "0100.HK",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "TEM",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "TEM",
+    "industry_name": "Biotech"
+  },
+  {
+    "ticker": "TEM",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "MBLY",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "MBLY",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "MBLY",
+    "industry_name": "Autonomous driving"
+  },
+  {
+    "ticker": "MBLY",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "0020.HK",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "0020.HK",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "0020.HK",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "S",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "S",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "S",
+    "industry_name": "IT security"
+  },
+  {
+    "ticker": "S",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "PATH",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "PATH",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "PATH",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "PRESIGHT.AE",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "PRESIGHT.AE",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "PRESIGHT.AE",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "064400.KS",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "064400.KS",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "FRMI",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "FRMI",
+    "industry_name": "Energy"
+  },
+  {
+    "ticker": "FRMI",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "PONY",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "PONY",
+    "industry_name": "Autonomous driving"
+  },
+  {
+    "ticker": "PONY",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "UPST",
+    "industry_name": "Financial services"
+  },
+  {
+    "ticker": "UPST",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "UPST",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "SOUN",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "SOUN",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "SOUN",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "SPACE42.AE",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "SPACE42.AE",
+    "industry_name": "Aerospace"
+  },
+  {
+    "ticker": "SPACE42.AE",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "INOD",
+    "industry_name": "Professional services"
+  },
+  {
+    "ticker": "INOD",
+    "industry_name": "IT services"
+  },
+  {
+    "ticker": "INOD",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "WRD",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "WRD",
+    "industry_name": "Transportation"
+  },
+  {
+    "ticker": "WRD",
+    "industry_name": "Autonomous driving"
+  },
+  {
+    "ticker": "WRD",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "RXRX",
+    "industry_name": "Pharmaceuticals"
+  },
+  {
+    "ticker": "RXRX",
+    "industry_name": "Biotech"
+  },
+  {
+    "ticker": "RXRX",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "BBAI",
+    "industry_name": "Professional services"
+  },
+  {
+    "ticker": "BBAI",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "BBAI",
+    "industry_name": "IT services"
+  },
+  {
+    "ticker": "BBAI",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "AI",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "AI",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "AI",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "WYFI",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "WYFI",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "ODD",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "ODD",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "ODD",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "SERV",
+    "industry_name": "Robotics"
+  },
+  {
+    "ticker": "SERV",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "AIAI",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "CRNC",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "CRNC",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "CRNC",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "OSS",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "OSS",
+    "industry_name": "Tech Hardware"
+  },
+  {
+    "ticker": "OSS",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "DUOT",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "DUOT",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "DUOT",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "PDYN",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "PDYN",
+    "industry_name": "Robotics"
+  },
+  {
+    "ticker": "PDYN",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "APX.AX",
+    "industry_name": "Professional services"
+  },
+  {
+    "ticker": "APX.AX",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "APX.AX",
+    "industry_name": "IT services"
+  },
+  {
+    "ticker": "APX.AX",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "AIDX.TO",
+    "industry_name": "Healthcare"
+  },
+  {
+    "ticker": "AIDX.TO",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "AIDX.TO",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "AIW.MI",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "AIW.MI",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "AIW.MI",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "AMCI",
+    "industry_name": "Robotics"
+  },
+  {
+    "ticker": "AMCI",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "ODYS",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "ODYS",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "NNOX",
+    "industry_name": "Medical devices"
+  },
+  {
+    "ticker": "NNOX",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "AISP",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "AISP",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "AISP",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "HYFT",
+    "industry_name": "Biotech"
+  },
+  {
+    "ticker": "HYFT",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "AILE",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "AILE",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "AILE",
+    "industry_name": "Education"
+  },
+  {
+    "ticker": "AILE",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "STEM",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "STEM",
+    "industry_name": "Electricity"
+  },
+  {
+    "ticker": "STEM",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "STEM",
+    "industry_name": "Energy"
+  },
+  {
+    "ticker": "STEM",
+    "industry_name": "Batteries"
+  },
+  {
+    "ticker": "STEM",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "VIDA",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "VIDA",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "VIDA",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "LGCL",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "LGCL",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "LGCL",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "LTRN",
+    "industry_name": "Pharmaceuticals"
+  },
+  {
+    "ticker": "LTRN",
+    "industry_name": "Biotech"
+  },
+  {
+    "ticker": "LTRN",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "SPPL",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "SPPL",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "SPPL",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "ZENV",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "ZENV",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "ZENV",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "KSCP",
+    "industry_name": "Security & Protection Services"
+  },
+  {
+    "ticker": "KSCP",
+    "industry_name": "Robotics"
+  },
+  {
+    "ticker": "KSCP",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "BIRD",
+    "industry_name": "Clothing"
+  },
+  {
+    "ticker": "BIRD",
+    "industry_name": "Footwear"
+  },
+  {
+    "ticker": "BIRD",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "ARAI",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "ARAI",
+    "industry_name": "Transportation"
+  },
+  {
+    "ticker": "ARAI",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "AVAI",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "AVAI",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "AVAI",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "SELX",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "SELX",
+    "industry_name": "Tech Hardware"
+  },
+  {
+    "ticker": "SELX",
+    "industry_name": "Lidar"
+  },
+  {
+    "ticker": "SELX",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "AUID",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "AUID",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "AUID",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "BFRG",
+    "industry_name": "Pharmaceuticals"
+  },
+  {
+    "ticker": "BFRG",
+    "industry_name": "Biotech"
+  },
+  {
+    "ticker": "BFRG",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "GXAI",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "AIRE",
+    "industry_name": "Real estate"
+  },
+  {
+    "ticker": "AIRE",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "AIRE",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "ORKT",
+    "industry_name": "Professional services"
+  },
+  {
+    "ticker": "ORKT",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "ORKT",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "ORKT",
+    "industry_name": "IT services"
+  },
+  {
+    "ticker": "ORKT",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "VERS.NE",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "VERS.NE",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "VERS.NE",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "JTAI",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "JTAI",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "JTAI",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "FRGT",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "FRGT",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "FRGT",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "AIXI",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "AIXI",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "AIXI",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "PRST",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "PRST",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "PRST",
+    "industry_name": "AI"
+  }
+]
