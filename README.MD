@@ -19,6 +19,7 @@ Topik ini dipilih dengan beberapa pertimbangan:
 4. Selain company, source ini juga mengklasifikasikan aset finansial lain (ETF, cryptocurrency, precious metals) dengan market cap sehingga desain database bisa dibuat lebih general jika ke depannya akan diperluas ke kategori aset lain selain companies.
 
 **DBMS yang digunakan:** PostgreSQL
+
 **Alasan:** mendukung constraint dan trigger yang cukup lengkap untuk implementasi generalization/specialization pada desain ERD project ini
 
 ## Step 1: Data Scraping
@@ -181,7 +182,10 @@ pg_dump -U postgres -h localhost -p 5432 ai_companies_marketcap > ai_companies_m
 ### Skema Data Warehouse
 Data warehouse dirancang menggunakan galaxy schema karena ada 2 fact table (`fact_yearly_marketcap` dan `fact_snapshot_marketcap`) yang berbagi dimension table yang sama (`dim_company`). Kedua fact table dipisah karena memiliki grain waktu yang berbeda: data histori tahunan dan data snapshot pada saat scraping dilakukan.
 
+### ERD (Entity Relationship Diagram)
 ![ERD Data Warehouse](Data%20Warehouse/design/ERD%20Diagram.png)
+
+### Relational Diagram
 ![Relational Diagram Data Warehouse](Data%20Warehouse/design/Relational%20Diagram.png)
 
 **Fact table:**
@@ -223,7 +227,7 @@ pg_dump -U postgres -h localhost -p 5432 ai_companies_warehouse > ai_companies_w
 
 ### Contoh Query Analitik
 
-Rata-rata pertumbuhan market cap per industri:
+**Rata-rata pertumbuhan market cap per industri:**
 ```sql
 SELECT di.industry_name, ROUND(AVG(fy.change_pct), 2) AS avg_growth_pct, COUNT(*) AS count_company
 FROM fact_yearly_marketcap fy JOIN bridge_company_industry bci ON fy.company_id = bci.company_id
@@ -232,9 +236,10 @@ WHERE fy.year = 2026
 GROUP BY di.industry_name
 ORDER BY avg_growth_pct DESC, di.industry_name DESC;
 ```
+
 ![Average Growth Market Cap per Industry](Data%20Warehouse/screenshot/Average%20growth%20market%20cap%20per%20industry.png)
 
-Top 10 company dengan pertumbuhan market cap tercepat:
+**Top 10 company dengan pertumbuhan market cap tercepat:**
 ```sql
 SELECT dc.company_name, fy.market_cap, fy.change_pct
 FROM fact_yearly_marketcap fy JOIN dim_company dc ON fy.company_id = dc.company_id
@@ -242,9 +247,10 @@ WHERE fy.year = 2025 AND fy.change_pct IS NOT NULL
 ORDER BY fy.change_pct DESC
 LIMIT 10;
 ```
+
 ![Top 10 Company with Fastest Growth](Data%20Warehouse/screenshot/Top%2010%20company%20with%20fastest%20growth.png)
 
-Total market cap gabungan per negara:
+**Total market cap gabungan per negara:**
 ```sql
 SELECT dc.country_name, SUM(fy.market_cap) AS total_market_cap
 FROM fact_yearly_marketcap fy JOIN dim_company dc ON fy.company_id = dc.company_id
@@ -252,6 +258,7 @@ WHERE fy.year = 2026
 GROUP BY dc.country_name
 ORDER BY total_market_cap DESC;
 ```
+
 ![Total Market Cap per Country](Data%20Warehouse/screenshot/Total%20market%20cap%20per%20country.png)
 
 ## Bonus: Automated Scheduling
@@ -295,15 +302,15 @@ Refleksi: penggunaan AI cukup membantu, terutama untuk mempercepat proses eksplo
 ## Referensi
 
 **1. Library**
-[Requests](https://pypi.org/project/requests/)
-[BeautifulSoup4](https://pypi.org/project/beautifulsoup4/)
-[psycopg2](https://pypi.org/project/psycopg2/)
+[Requests](https://pypi.org/project/requests/)<br>
+[BeautifulSoup4](https://pypi.org/project/beautifulsoup4/)<br>
+[psycopg2](https://pypi.org/project/psycopg2/)<br>
 [Bridge Tables](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/multivalued-dimension-bridge-table/)
 
 **2. Third-party Application**
-Task Scheduler (Windows)
+Task Scheduler (Windows)<br>
 draw.io (desain ERD dan diagram relasional)
 
 **3. Website Source**
-[AI Companies by Market Cap](https://companiesmarketcap.com/artificial-intelligence/largest-ai-companies-by-marketcap/)
+[AI Companies by Market Cap](https://companiesmarketcap.com/artificial-intelligence/largest-ai-companies-by-marketcap/)<br>
 Tambahan: [CompaniesMarketCap](https://companiesmarketcap.com/)
