@@ -301,16 +301,16 @@ Refleksi: penggunaan AI cukup membantu, terutama untuk mempercepat proses eksplo
 
 ## Referensi
 
-**1. Library**
+**1. Library**<br>
 [Requests](https://pypi.org/project/requests/)<br>
 [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/)<br>
 [psycopg2](https://pypi.org/project/psycopg2/)<br>
 [Bridge Tables](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/multivalued-dimension-bridge-table/)
 
-**2. Third-party Application**
+**2. Third-party Application**<br>
 Task Scheduler (Windows)<br>
 draw.io (desain ERD dan diagram relasional)
 
-**3. Website Source**
+**3. Website Source**<br>
 [AI Companies by Market Cap](https://companiesmarketcap.com/artificial-intelligence/largest-ai-companies-by-marketcap/)<br>
 Tambahan: [CompaniesMarketCap](https://companiesmarketcap.com/)
