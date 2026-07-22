@@ -252,14 +252,6 @@
     "industry_name": "AI"
   },
   {
-    "ticker": "CRWV",
-    "industry_name": "Tech"
-  },
-  {
-    "ticker": "CRWV",
-    "industry_name": "AI"
-  },
-  {
     "ticker": "CBRS",
     "industry_name": "Semiconductors"
   },
@@ -276,15 +268,11 @@
     "industry_name": "AI"
   },
   {
-    "ticker": "DT",
-    "industry_name": "Software"
-  },
-  {
-    "ticker": "DT",
+    "ticker": "CRWV",
     "industry_name": "Tech"
   },
   {
-    "ticker": "DT",
+    "ticker": "CRWV",
     "industry_name": "AI"
   },
   {
@@ -301,6 +289,18 @@
   },
   {
     "ticker": "AUR",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "DT",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "DT",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "DT",
     "industry_name": "AI"
   },
   {
@@ -372,27 +372,27 @@
     "industry_name": "AI"
   },
   {
-    "ticker": "PATH",
+    "ticker": "PRESIGHT.AE",
     "industry_name": "Software"
   },
   {
-    "ticker": "PATH",
+    "ticker": "PRESIGHT.AE",
     "industry_name": "Tech"
   },
   {
-    "ticker": "PATH",
+    "ticker": "PRESIGHT.AE",
     "industry_name": "AI"
   },
   {
-    "ticker": "PRESIGHT.AE",
+    "ticker": "PATH",
     "industry_name": "Software"
   },
   {
-    "ticker": "PRESIGHT.AE",
+    "ticker": "PATH",
     "industry_name": "Tech"
   },
   {
-    "ticker": "PRESIGHT.AE",
+    "ticker": "PATH",
     "industry_name": "AI"
   },
   {
@@ -428,18 +428,6 @@
     "industry_name": "AI"
   },
   {
-    "ticker": "UPST",
-    "industry_name": "Financial services"
-  },
-  {
-    "ticker": "UPST",
-    "industry_name": "Tech"
-  },
-  {
-    "ticker": "UPST",
-    "industry_name": "AI"
-  },
-  {
     "ticker": "SOUN",
     "industry_name": "Software"
   },
@@ -449,6 +437,18 @@
   },
   {
     "ticker": "SOUN",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "UPST",
+    "industry_name": "Financial services"
+  },
+  {
+    "ticker": "UPST",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "UPST",
     "industry_name": "AI"
   },
   {
@@ -552,15 +552,15 @@
     "industry_name": "AI"
   },
   {
+    "ticker": "AIAI",
+    "industry_name": "AI"
+  },
+  {
     "ticker": "SERV",
     "industry_name": "Robotics"
   },
   {
     "ticker": "SERV",
-    "industry_name": "AI"
-  },
-  {
-    "ticker": "AIAI",
     "industry_name": "AI"
   },
   {
@@ -585,6 +585,14 @@
   },
   {
     "ticker": "OSS",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "QMLS",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "QMLS",
     "industry_name": "AI"
   },
   {
@@ -668,14 +676,6 @@
     "industry_name": "AI"
   },
   {
-    "ticker": "NNOX",
-    "industry_name": "Medical devices"
-  },
-  {
-    "ticker": "NNOX",
-    "industry_name": "AI"
-  },
-  {
     "ticker": "AISP",
     "industry_name": "Software"
   },
@@ -685,6 +685,14 @@
   },
   {
     "ticker": "AISP",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "NNOX",
+    "industry_name": "Medical devices"
+  },
+  {
+    "ticker": "NNOX",
     "industry_name": "AI"
   },
   {
@@ -772,30 +780,6 @@
     "industry_name": "AI"
   },
   {
-    "ticker": "SPPL",
-    "industry_name": "Software"
-  },
-  {
-    "ticker": "SPPL",
-    "industry_name": "Tech"
-  },
-  {
-    "ticker": "SPPL",
-    "industry_name": "AI"
-  },
-  {
-    "ticker": "ZENV",
-    "industry_name": "Software"
-  },
-  {
-    "ticker": "ZENV",
-    "industry_name": "Tech"
-  },
-  {
-    "ticker": "ZENV",
-    "industry_name": "AI"
-  },
-  {
     "ticker": "KSCP",
     "industry_name": "Security & Protection Services"
   },
@@ -805,6 +789,30 @@
   },
   {
     "ticker": "KSCP",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "SPPL",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "SPPL",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "SPPL",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "ZENV",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "ZENV",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "ZENV",
     "industry_name": "AI"
   },
   {
@@ -820,18 +828,6 @@
     "industry_name": "AI"
   },
   {
-    "ticker": "ARAI",
-    "industry_name": "Tech"
-  },
-  {
-    "ticker": "ARAI",
-    "industry_name": "Transportation"
-  },
-  {
-    "ticker": "ARAI",
-    "industry_name": "AI"
-  },
-  {
     "ticker": "AVAI",
     "industry_name": "Software"
   },
@@ -841,6 +837,18 @@
   },
   {
     "ticker": "AVAI",
+    "industry_name": "AI"
+  },
+  {
+    "ticker": "ARAI",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "ARAI",
+    "industry_name": "Transportation"
+  },
+  {
+    "ticker": "ARAI",
     "industry_name": "AI"
   },
   {

@@ -1,520 +1,527 @@
 [
   {
     "ticker": "NVDA",
-    "market_cap": 4923000000000.0,
-    "price": 203.28,
-    "today_change_pct": 0.23,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 5174000000000.0,
+    "price": 213.62,
+    "today_change_pct": 3.05,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "AAPL",
-    "market_cap": 4796000000000.0,
-    "price": 326.59,
-    "today_change_pct": 2.14,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 4764000000000.0,
+    "price": 324.4,
+    "today_change_pct": 1.02,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "GOOG",
-    "market_cap": 4287000000000.0,
-    "price": 351.37,
-    "today_change_pct": 1.52,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 4224000000000.0,
+    "price": 346.19,
+    "today_change_pct": 0.0,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "MSFT",
-    "market_cap": 2988000000000.0,
-    "price": 402.29,
-    "today_change_pct": 2.15,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 2886000000000.0,
+    "price": 388.6,
+    "today_change_pct": 2.3,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "META",
-    "market_cap": 1639000000000.0,
-    "price": 645.85,
-    "today_change_pct": 0.02,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 1589000000000.0,
+    "price": 626.0,
+    "today_change_pct": 2.77,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "SPCX",
-    "market_cap": 1578000000000.0,
-    "price": 119.85,
-    "today_change_pct": 3.34,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 1549000000000.0,
+    "price": 117.61,
+    "today_change_pct": 4.8,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "TSLA",
-    "market_cap": 1388000000000.0,
-    "price": 369.57,
-    "today_change_pct": 2.96,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 1411000000000.0,
+    "price": 375.72,
+    "today_change_pct": 0.85,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "ORCL",
-    "market_cap": 349630000000.0,
-    "price": 121.38,
-    "today_change_pct": 3.98,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 359590000000.0,
+    "price": 124.84,
+    "today_change_pct": 1.74,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "PLTR",
-    "market_cap": 323270000000.0,
-    "price": 134.85,
-    "today_change_pct": 1.87,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 297260000000.0,
+    "price": 124.0,
+    "today_change_pct": 6.53,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "BABA",
-    "market_cap": 288430000000.0,
-    "price": 120.34,
-    "today_change_pct": 4.67,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 279010000000.0,
+    "price": 116.41,
+    "today_change_pct": 1.32,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "IBM",
-    "market_cap": 200190000000.0,
-    "price": 213.0,
-    "today_change_pct": 0.16,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 193600000000.0,
+    "price": 205.99,
+    "today_change_pct": 2.14,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "688256.SS",
-    "market_cap": 125390000000.0,
-    "price": 199.58,
-    "today_change_pct": 11.66,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 121730000000.0,
+    "price": 193.75,
+    "today_change_pct": 2.96,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "ADBE",
-    "market_cap": 93300000000.0,
-    "price": 234.74,
-    "today_change_pct": 1.06,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 87310000000.0,
+    "price": 219.67,
+    "today_change_pct": 3.3,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "2513.HK",
-    "market_cap": 72380000000.0,
-    "price": 155.46,
-    "today_change_pct": 36.89,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
-  },
-  {
-    "ticker": "CRWV",
-    "market_cap": 39850000000.0,
-    "price": 73.06,
-    "today_change_pct": 0.2,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 69770000000.0,
+    "price": 149.85,
+    "today_change_pct": 3.61,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "CBRS",
-    "market_cap": 39410000000.0,
-    "price": 176.88,
-    "today_change_pct": 2.33,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 45740000000.0,
+    "price": 205.25,
+    "today_change_pct": 1.59,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
-    "ticker": "DT",
-    "market_cap": 13030000000.0,
-    "price": 44.71,
-    "today_change_pct": 0.68,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "ticker": "CRWV",
+    "market_cap": 45110000000.0,
+    "price": 82.69,
+    "today_change_pct": 3.91,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "AUR",
-    "market_cap": 11940000000.0,
-    "price": 6.09,
-    "today_change_pct": 0.5,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 13040000000.0,
+    "price": 6.65,
+    "today_change_pct": 5.39,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
+  },
+  {
+    "ticker": "DT",
+    "market_cap": 12100000000.0,
+    "price": 41.53,
+    "today_change_pct": 3.08,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "0100.HK",
-    "market_cap": 9900000000.0,
-    "price": 28.36,
-    "today_change_pct": 15.17,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 8770000000.0,
+    "price": 25.12,
+    "today_change_pct": 11.42,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "TEM",
-    "market_cap": 8690000000.0,
-    "price": 48.41,
-    "today_change_pct": 7.74,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 8440000000.0,
+    "price": 47.02,
+    "today_change_pct": 4.0,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "MBLY",
-    "market_cap": 7530000000.0,
-    "price": 8.95,
-    "today_change_pct": 2.93,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 7260000000.0,
+    "price": 8.63,
+    "today_change_pct": 4.0,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "0020.HK",
     "market_cap": 7230000000.0,
     "price": 0.18,
-    "today_change_pct": 2.94,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "today_change_pct": 0.0,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "S",
-    "market_cap": 6640000000.0,
-    "price": 19.46,
-    "today_change_pct": 0.56,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
-  },
-  {
-    "ticker": "PATH",
-    "market_cap": 6300000000.0,
-    "price": 12.16,
-    "today_change_pct": 0.08,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 6200000000.0,
+    "price": 18.18,
+    "today_change_pct": 3.35,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "PRESIGHT.AE",
-    "market_cap": 5600000000.0,
-    "price": 1.0,
-    "today_change_pct": 2.23,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 5510000000.0,
+    "price": 0.98,
+    "today_change_pct": 1.63,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
+  },
+  {
+    "ticker": "PATH",
+    "market_cap": 5400000000.0,
+    "price": 10.42,
+    "today_change_pct": 13.41,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "064400.KS",
-    "market_cap": 4110000000.0,
-    "price": 42.47,
-    "today_change_pct": 1.13,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 4230000000.0,
+    "price": 43.72,
+    "today_change_pct": 3.36,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "FRMI",
-    "market_cap": 3900000000.0,
-    "price": 6.12,
-    "today_change_pct": 1.16,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 4190000000.0,
+    "price": 6.58,
+    "today_change_pct": 1.13,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "PONY",
-    "market_cap": 2910000000.0,
-    "price": 6.71,
-    "today_change_pct": 0.75,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
-  },
-  {
-    "ticker": "UPST",
-    "market_cap": 2750000000.0,
-    "price": 28.82,
-    "today_change_pct": 2.34,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 2940000000.0,
+    "price": 6.78,
+    "today_change_pct": 1.95,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "SOUN",
+    "market_cap": 2800000000.0,
+    "price": 6.43,
+    "today_change_pct": 1.92,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
+  },
+  {
+    "ticker": "UPST",
     "market_cap": 2740000000.0,
-    "price": 6.31,
-    "today_change_pct": 0.64,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "price": 28.71,
+    "today_change_pct": 1.91,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "SPACE42.AE",
-    "market_cap": 2160000000.0,
+    "market_cap": 2130000000.0,
     "price": 0.45,
-    "today_change_pct": 1.83,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "today_change_pct": 0.6,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "INOD",
-    "market_cap": 2020000000.0,
-    "price": 62.08,
-    "today_change_pct": 2.09,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 2010000000.0,
+    "price": 61.82,
+    "today_change_pct": 2.84,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "WRD",
-    "market_cap": 1950000000.0,
-    "price": 5.95,
-    "today_change_pct": 0.5,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 1890000000.0,
+    "price": 5.76,
+    "today_change_pct": 2.7,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "RXRX",
-    "market_cap": 1530000000.0,
-    "price": 2.89,
-    "today_change_pct": 1.87,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 1590000000.0,
+    "price": 3.0,
+    "today_change_pct": 2.6,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "BBAI",
-    "market_cap": 1350000000.0,
-    "price": 2.82,
-    "today_change_pct": 0.7,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 1360000000.0,
+    "price": 2.85,
+    "today_change_pct": 2.94,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "AI",
-    "market_cap": 1330000000.0,
-    "price": 8.61,
-    "today_change_pct": 2.38,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 1240000000.0,
+    "price": 8.03,
+    "today_change_pct": 6.52,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "WYFI",
     "market_cap": 1040000000.0,
-    "price": 27.13,
-    "today_change_pct": 7.87,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "price": 27.04,
+    "today_change_pct": 1.83,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "ODD",
-    "market_cap": 750000000.0,
-    "price": 16.29,
-    "today_change_pct": 0.21,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 760000000.0,
+    "price": 16.49,
+    "today_change_pct": 1.67,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
+  },
+  {
+    "ticker": "AIAI",
+    "market_cap": 450000000.0,
+    "price": 6.42,
+    "today_change_pct": 5.31,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "SERV",
     "market_cap": 440000000.0,
-    "price": 5.19,
-    "today_change_pct": 1.96,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
-  },
-  {
-    "ticker": "AIAI",
-    "market_cap": 430000000.0,
-    "price": 6.14,
-    "today_change_pct": 12.16,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "price": 5.22,
+    "today_change_pct": 2.97,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "CRNC",
-    "market_cap": 380000000.0,
-    "price": 8.6,
-    "today_change_pct": 0.35,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 420000000.0,
+    "price": 9.51,
+    "today_change_pct": 3.26,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "OSS",
-    "market_cap": 300000000.0,
-    "price": 12.36,
-    "today_change_pct": 2.06,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 320000000.0,
+    "price": 13.24,
+    "today_change_pct": 4.92,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
+  },
+  {
+    "ticker": "QMLS",
+    "market_cap": 320000000.0,
+    "price": 9.74,
+    "today_change_pct": 43.02,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "DUOT",
     "market_cap": 250000000.0,
-    "price": 8.18,
-    "today_change_pct": 0.37,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "price": 8.25,
+    "today_change_pct": 2.48,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "PDYN",
-    "market_cap": 230000000.0,
-    "price": 5.01,
-    "today_change_pct": 2.66,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 240000000.0,
+    "price": 5.23,
+    "today_change_pct": 0.38,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "APX.AX",
     "market_cap": 170000000.0,
-    "price": 0.64,
-    "today_change_pct": 5.17,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "price": 0.65,
+    "today_change_pct": 2.19,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "AIDX.TO",
-    "market_cap": 160000000.0,
+    "market_cap": 150000000.0,
     "price": 0.49,
     "today_change_pct": 1.47,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "AIW.MI",
     "market_cap": 150000000.0,
     "price": 5.07,
     "today_change_pct": 0.0,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "AMCI",
     "market_cap": 110000000.0,
-    "price": 5.03,
-    "today_change_pct": 0.4,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "price": 5.02,
+    "today_change_pct": 0.3,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "ODYS",
-    "market_cap": 80690000.0,
-    "price": 4.81,
-    "today_change_pct": 2.43,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
-  },
-  {
-    "ticker": "NNOX",
     "market_cap": 77250000.0,
-    "price": 1.11,
-    "today_change_pct": 0.89,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "price": 4.6,
+    "today_change_pct": 2.02,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "AISP",
-    "market_cap": 68870000.0,
-    "price": 2.0,
-    "today_change_pct": 0.0,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 70600000.0,
+    "price": 2.05,
+    "today_change_pct": 0.97,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
+  },
+  {
+    "ticker": "NNOX",
+    "market_cap": 69940000.0,
+    "price": 1.0,
+    "today_change_pct": 6.94,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "HYFT",
-    "market_cap": 66790000.0,
-    "price": 1.43,
-    "today_change_pct": 2.05,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 67730000.0,
+    "price": 1.45,
+    "today_change_pct": 0.68,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "AILE",
     "market_cap": 59290000.0,
     "price": 0.42,
     "today_change_pct": 0.0,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "STEM",
-    "market_cap": 54540000.0,
-    "price": 6.09,
-    "today_change_pct": 2.72,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 53780000.0,
+    "price": 6.0,
+    "today_change_pct": 4.53,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "VIDA",
-    "market_cap": 45420000.0,
-    "price": 2.27,
-    "today_change_pct": 2.16,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 53220000.0,
+    "price": 2.66,
+    "today_change_pct": 5.81,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "LGCL",
-    "market_cap": 42790000.0,
+    "market_cap": 42780000.0,
     "price": 1.0,
-    "today_change_pct": 14.53,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "today_change_pct": 2.02,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "LTRN",
-    "market_cap": 37630000.0,
-    "price": 2.95,
-    "today_change_pct": 2.79,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 36360000.0,
+    "price": 2.85,
+    "today_change_pct": 3.06,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
+  },
+  {
+    "ticker": "KSCP",
+    "market_cap": 34930000.0,
+    "price": 2.02,
+    "today_change_pct": 41.61,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "SPPL",
-    "market_cap": 33070000.0,
-    "price": 3.38,
-    "today_change_pct": 5.96,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 32580000.0,
+    "price": 3.33,
+    "today_change_pct": 0.0,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "ZENV",
     "market_cap": 24640000.0,
     "price": 0.47,
     "today_change_pct": 0.0,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
-  },
-  {
-    "ticker": "KSCP",
-    "market_cap": 24150000.0,
-    "price": 1.4,
-    "today_change_pct": 4.76,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "BIRD",
-    "market_cap": 23240000.0,
-    "price": 2.64,
-    "today_change_pct": 2.22,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
-  },
-  {
-    "ticker": "ARAI",
-    "market_cap": 19010000.0,
-    "price": 0.37,
-    "today_change_pct": 0.99,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 23950000.0,
+    "price": 2.72,
+    "today_change_pct": 0.73,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "AVAI",
-    "market_cap": 18520000.0,
-    "price": 0.13,
-    "today_change_pct": 10.67,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 23040000.0,
+    "price": 0.17,
+    "today_change_pct": 9.67,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
+  },
+  {
+    "ticker": "ARAI",
+    "market_cap": 15800000.0,
+    "price": 0.3,
+    "today_change_pct": 8.31,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "SELX",
     "market_cap": 14740000.0,
     "price": 0.34,
     "today_change_pct": 0.0,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "AUID",
-    "market_cap": 14540000.0,
-    "price": 0.87,
-    "today_change_pct": 3.11,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 13880000.0,
+    "price": 0.83,
+    "today_change_pct": 0.65,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "BFRG",
-    "market_cap": 11890000.0,
+    "market_cap": 11820000.0,
     "price": 0.64,
-    "today_change_pct": 0.62,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "today_change_pct": 0.86,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "GXAI",
-    "market_cap": 11380000.0,
-    "price": 1.06,
-    "today_change_pct": 1.85,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 11550000.0,
+    "price": 1.08,
+    "today_change_pct": 0.46,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "AIRE",
-    "market_cap": 7130000.0,
-    "price": 1.33,
-    "today_change_pct": 4.32,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 6920000.0,
+    "price": 1.29,
+    "today_change_pct": 6.52,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "ORKT",
-    "market_cap": 5750000.0,
-    "price": 0.98,
-    "today_change_pct": 5.29,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 5830000.0,
+    "price": 1.0,
+    "today_change_pct": 0.5,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "VERS.NE",
     "market_cap": 3860000.0,
     "price": 0.27,
     "today_change_pct": 0.0,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "JTAI",
-    "market_cap": 3250000.0,
-    "price": 2.29,
-    "today_change_pct": 6.02,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 3590000.0,
+    "price": 2.53,
+    "today_change_pct": 9.52,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "FRGT",
-    "market_cap": 2000000.0,
-    "price": 3.51,
-    "today_change_pct": 8.12,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 2050000.0,
+    "price": 3.59,
+    "today_change_pct": 11.49,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "AIXI",
-    "market_cap": 1110000.0,
-    "price": 1.21,
-    "today_change_pct": 21.43,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "market_cap": 1140000.0,
+    "price": 1.24,
+    "today_change_pct": 0.04,
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   },
   {
     "ticker": "PRST",
     "market_cap": 40000.0,
     "price": 0.0,
     "today_change_pct": 0.0,
-    "extracted_at": "2026-07-21T08:59:17.050403+00:00"
+    "extracted_at": "2026-07-22T18:42:39.749920+00:00"
   }
 ]

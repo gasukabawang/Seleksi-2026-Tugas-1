@@ -84,28 +84,28 @@
     "detail_url": "https://companiesmarketcap.com/z-ai/marketcap/"
   },
   {
-    "name": "CoreWeave",
-    "ticker": "CRWV",
-    "country": "USA",
-    "detail_url": "https://companiesmarketcap.com/coreweave/marketcap/"
-  },
-  {
     "name": "Cerebras Systems",
     "ticker": "CBRS",
     "country": "USA",
     "detail_url": "https://companiesmarketcap.com/cerebras-systems/marketcap/"
   },
   {
-    "name": "Dynatrace",
-    "ticker": "DT",
+    "name": "CoreWeave",
+    "ticker": "CRWV",
     "country": "USA",
-    "detail_url": "https://companiesmarketcap.com/dynatrace/marketcap/"
+    "detail_url": "https://companiesmarketcap.com/coreweave/marketcap/"
   },
   {
     "name": "Aurora Innovation",
     "ticker": "AUR",
     "country": "USA",
     "detail_url": "https://companiesmarketcap.com/aurora-innovation/marketcap/"
+  },
+  {
+    "name": "Dynatrace",
+    "ticker": "DT",
+    "country": "USA",
+    "detail_url": "https://companiesmarketcap.com/dynatrace/marketcap/"
   },
   {
     "name": "MiniMax Group",
@@ -138,16 +138,16 @@
     "detail_url": "https://companiesmarketcap.com/sentinelone/marketcap/"
   },
   {
-    "name": "UiPath",
-    "ticker": "PATH",
-    "country": "USA",
-    "detail_url": "https://companiesmarketcap.com/uipath/marketcap/"
-  },
-  {
     "name": "Presight AI",
     "ticker": "PRESIGHT.AE",
     "country": "UAE",
     "detail_url": "https://companiesmarketcap.com/presight-ai/marketcap/"
+  },
+  {
+    "name": "UiPath",
+    "ticker": "PATH",
+    "country": "USA",
+    "detail_url": "https://companiesmarketcap.com/uipath/marketcap/"
   },
   {
     "name": "LG CNS",
@@ -168,16 +168,16 @@
     "detail_url": "https://companiesmarketcap.com/pony-ai/marketcap/"
   },
   {
-    "name": "Upstart",
-    "ticker": "UPST",
-    "country": "USA",
-    "detail_url": "https://companiesmarketcap.com/upstart/marketcap/"
-  },
-  {
     "name": "SoundHound AI",
     "ticker": "SOUN",
     "country": "USA",
     "detail_url": "https://companiesmarketcap.com/soundhound-ai/marketcap/"
+  },
+  {
+    "name": "Upstart",
+    "ticker": "UPST",
+    "country": "USA",
+    "detail_url": "https://companiesmarketcap.com/upstart/marketcap/"
   },
   {
     "name": "SPACE42",
@@ -228,16 +228,16 @@
     "detail_url": "https://companiesmarketcap.com/oddity-tech/marketcap/"
   },
   {
-    "name": "Serve Robotics",
-    "ticker": "SERV",
-    "country": "USA",
-    "detail_url": "https://companiesmarketcap.com/serve-robotics/marketcap/"
-  },
-  {
     "name": "AIAI Holdings Corporation",
     "ticker": "AIAI",
     "country": "USA",
     "detail_url": "https://companiesmarketcap.com/aiai-holdings-corporation/marketcap/"
+  },
+  {
+    "name": "Serve Robotics",
+    "ticker": "SERV",
+    "country": "USA",
+    "detail_url": "https://companiesmarketcap.com/serve-robotics/marketcap/"
   },
   {
     "name": "Cerence",
@@ -250,6 +250,12 @@
     "ticker": "OSS",
     "country": "USA",
     "detail_url": "https://companiesmarketcap.com/one-stop-systems/marketcap/"
+  },
+  {
+    "name": "QumulusAI, Inc.",
+    "ticker": "QMLS",
+    "country": "USA",
+    "detail_url": "https://companiesmarketcap.com/qumulus-ai/marketcap/"
   },
   {
     "name": "Duos Technologies Group",
@@ -294,16 +300,16 @@
     "detail_url": "https://companiesmarketcap.com/odysight-ai/marketcap/"
   },
   {
-    "name": "Nano-X Imaging",
-    "ticker": "NNOX",
-    "country": "Israel",
-    "detail_url": "https://companiesmarketcap.com/nano-x-imaging/marketcap/"
-  },
-  {
     "name": "Airship AI",
     "ticker": "AISP",
     "country": "USA",
     "detail_url": "https://companiesmarketcap.com/airship-ai/marketcap/"
+  },
+  {
+    "name": "Nano-X Imaging",
+    "ticker": "NNOX",
+    "country": "Israel",
+    "detail_url": "https://companiesmarketcap.com/nano-x-imaging/marketcap/"
   },
   {
     "name": "MindWalk Holdings",
@@ -342,6 +348,12 @@
     "detail_url": "https://companiesmarketcap.com/lantern-pharma/marketcap/"
   },
   {
+    "name": "Knightscope",
+    "ticker": "KSCP",
+    "country": "USA",
+    "detail_url": "https://companiesmarketcap.com/knightscope/marketcap/"
+  },
+  {
     "name": "SIMPPLE",
     "ticker": "SPPL",
     "country": "Singapore",
@@ -354,28 +366,22 @@
     "detail_url": "https://companiesmarketcap.com/zenvia/marketcap/"
   },
   {
-    "name": "Knightscope",
-    "ticker": "KSCP",
-    "country": "USA",
-    "detail_url": "https://companiesmarketcap.com/knightscope/marketcap/"
-  },
-  {
     "name": "Allbirds",
     "ticker": "BIRD",
     "country": "USA",
     "detail_url": "https://companiesmarketcap.com/allbirds/marketcap/"
   },
   {
-    "name": "Arrive AI",
-    "ticker": "ARAI",
-    "country": "USA",
-    "detail_url": "https://companiesmarketcap.com/arrive-ai/marketcap/"
-  },
-  {
     "name": "Avant Technologies Inc.",
     "ticker": "AVAI",
     "country": "USA",
     "detail_url": "https://companiesmarketcap.com/avant-technologies-inc/marketcap/"
+  },
+  {
+    "name": "Arrive AI",
+    "ticker": "ARAI",
+    "country": "USA",
+    "detail_url": "https://companiesmarketcap.com/arrive-ai/marketcap/"
   },
   {
     "name": "Semilux International",
