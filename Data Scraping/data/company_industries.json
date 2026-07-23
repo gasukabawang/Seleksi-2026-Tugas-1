@@ -372,27 +372,27 @@
     "industry_name": "AI"
   },
   {
-    "ticker": "PRESIGHT.AE",
+    "ticker": "PATH",
     "industry_name": "Software"
   },
   {
-    "ticker": "PRESIGHT.AE",
+    "ticker": "PATH",
     "industry_name": "Tech"
   },
   {
-    "ticker": "PRESIGHT.AE",
+    "ticker": "PATH",
     "industry_name": "AI"
   },
   {
-    "ticker": "PATH",
+    "ticker": "PRESIGHT.AE",
     "industry_name": "Software"
   },
   {
-    "ticker": "PATH",
+    "ticker": "PRESIGHT.AE",
     "industry_name": "Tech"
   },
   {
-    "ticker": "PATH",
+    "ticker": "PRESIGHT.AE",
     "industry_name": "AI"
   },
   {
@@ -804,6 +804,18 @@
     "industry_name": "AI"
   },
   {
+    "ticker": "AVAI",
+    "industry_name": "Software"
+  },
+  {
+    "ticker": "AVAI",
+    "industry_name": "Tech"
+  },
+  {
+    "ticker": "AVAI",
+    "industry_name": "AI"
+  },
+  {
     "ticker": "ZENV",
     "industry_name": "Software"
   },
@@ -825,18 +837,6 @@
   },
   {
     "ticker": "BIRD",
-    "industry_name": "AI"
-  },
-  {
-    "ticker": "AVAI",
-    "industry_name": "Software"
-  },
-  {
-    "ticker": "AVAI",
-    "industry_name": "Tech"
-  },
-  {
-    "ticker": "AVAI",
     "industry_name": "AI"
   },
   {

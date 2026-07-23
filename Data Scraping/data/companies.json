@@ -138,16 +138,16 @@
     "detail_url": "https://companiesmarketcap.com/sentinelone/marketcap/"
   },
   {
-    "name": "Presight AI",
-    "ticker": "PRESIGHT.AE",
-    "country": "UAE",
-    "detail_url": "https://companiesmarketcap.com/presight-ai/marketcap/"
-  },
-  {
     "name": "UiPath",
     "ticker": "PATH",
     "country": "USA",
     "detail_url": "https://companiesmarketcap.com/uipath/marketcap/"
+  },
+  {
+    "name": "Presight AI",
+    "ticker": "PRESIGHT.AE",
+    "country": "UAE",
+    "detail_url": "https://companiesmarketcap.com/presight-ai/marketcap/"
   },
   {
     "name": "LG CNS",
@@ -360,6 +360,12 @@
     "detail_url": "https://companiesmarketcap.com/simpple/marketcap/"
   },
   {
+    "name": "Avant Technologies Inc.",
+    "ticker": "AVAI",
+    "country": "USA",
+    "detail_url": "https://companiesmarketcap.com/avant-technologies-inc/marketcap/"
+  },
+  {
     "name": "Zenvia",
     "ticker": "ZENV",
     "country": "Brazil",
@@ -370,12 +376,6 @@
     "ticker": "BIRD",
     "country": "USA",
     "detail_url": "https://companiesmarketcap.com/allbirds/marketcap/"
-  },
-  {
-    "name": "Avant Technologies Inc.",
-    "ticker": "AVAI",
-    "country": "USA",
-    "detail_url": "https://companiesmarketcap.com/avant-technologies-inc/marketcap/"
   },
   {
     "name": "Arrive AI",

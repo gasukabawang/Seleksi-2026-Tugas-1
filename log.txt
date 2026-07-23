@@ -1,0 +1,103 @@
+===== Mulai proses ETL ===== 
+Waktu mulai: 23/07/2026  9:19:00,57 
+Scraping: https://companiesmarketcap.com/artificial-intelligence/largest-ai-companies-by-marketcap/
+No duplicate, 75 ticker unique.
+Saved 75 records to C:\Users\sherr\Projects\Seleksi-2026-Tugas-1\Data Scraping\data\companies.json
+Saved 75 records to C:\Users\sherr\Projects\Seleksi-2026-Tugas-1\Data Scraping\data\market_cap_snapshots.json
+[1/75] Scraping detail: NVDA
+[2/75] Scraping detail: AAPL
+[3/75] Scraping detail: GOOG
+[4/75] Scraping detail: MSFT
+[5/75] Scraping detail: META
+[6/75] Scraping detail: SPCX
+[7/75] Scraping detail: TSLA
+[8/75] Scraping detail: ORCL
+[9/75] Scraping detail: PLTR
+[10/75] Scraping detail: BABA
+[11/75] Scraping detail: IBM
+[12/75] Scraping detail: 688256.SS
+[13/75] Scraping detail: ADBE
+[14/75] Scraping detail: 2513.HK
+[15/75] Scraping detail: CBRS
+[16/75] Scraping detail: CRWV
+[17/75] Scraping detail: AUR
+[18/75] Scraping detail: DT
+[19/75] Scraping detail: 0100.HK
+[20/75] Scraping detail: TEM
+[21/75] Scraping detail: MBLY
+[22/75] Scraping detail: 0020.HK
+[23/75] Scraping detail: S
+[24/75] Scraping detail: PATH
+[25/75] Scraping detail: PRESIGHT.AE
+[26/75] Scraping detail: 064400.KS
+[27/75] Scraping detail: FRMI
+[28/75] Scraping detail: PONY
+[29/75] Scraping detail: SOUN
+[30/75] Scraping detail: UPST
+[31/75] Scraping detail: SPACE42.AE
+[32/75] Scraping detail: INOD
+[33/75] Scraping detail: WRD
+[34/75] Scraping detail: RXRX
+[35/75] Scraping detail: BBAI
+[36/75] Scraping detail: AI
+[37/75] Scraping detail: WYFI
+[38/75] Scraping detail: ODD
+[39/75] Scraping detail: AIAI
+[40/75] Scraping detail: SERV
+[41/75] Scraping detail: CRNC
+[42/75] Scraping detail: OSS
+[43/75] Scraping detail: QMLS
+[44/75] Scraping detail: DUOT
+[45/75] Scraping detail: PDYN
+[46/75] Scraping detail: APX.AX
+[47/75] Scraping detail: AIDX.TO
+[48/75] Scraping detail: AIW.MI
+[49/75] Scraping detail: AMCI
+[50/75] Scraping detail: ODYS
+[51/75] Scraping detail: AISP
+[52/75] Scraping detail: NNOX
+[53/75] Scraping detail: HYFT
+[54/75] Scraping detail: AILE
+[55/75] Scraping detail: STEM
+[56/75] Scraping detail: VIDA
+[57/75] Scraping detail: LGCL
+[58/75] Scraping detail: LTRN
+[59/75] Scraping detail: KSCP
+[60/75] Scraping detail: SPPL
+[61/75] Scraping detail: AVAI
+[62/75] Scraping detail: ZENV
+[63/75] Scraping detail: BIRD
+[64/75] Scraping detail: ARAI
+[65/75] Scraping detail: SELX
+[66/75] Scraping detail: AUID
+[67/75] Scraping detail: BFRG
+[68/75] Scraping detail: GXAI
+[69/75] Scraping detail: AIRE
+[70/75] Scraping detail: ORKT
+[71/75] Scraping detail: VERS.NE
+[72/75] Scraping detail: JTAI
+[73/75] Scraping detail: FRGT
+[74/75] Scraping detail: AIXI
+[75/75] Scraping detail: PRST
+Saved 37 records to C:\Users\sherr\Projects\Seleksi-2026-Tugas-1\Data Scraping\data\industries.json
+Saved 247 records to C:\Users\sherr\Projects\Seleksi-2026-Tugas-1\Data Scraping\data\company_industries.json
+Saved 595 records to C:\Users\sherr\Projects\Seleksi-2026-Tugas-1\Data Scraping\data\market_cap_yearly_history.json
+
+All companies scraped successfully!
+Create successful
+countries update
+market_assets and companies update
+industries update
+asset_industries update
+market_cap_snapshots update
+market_cap_yearly_history update
+Data loaded succesfully to database ai_companies_marketcap
+Create success
+data dim_company added
+data dim_industry added
+data bridge_company_industry added
+data dim_date_year added
+data fact_yearly_marketcap added
+data fact_snapshot_marketcap added
+Data loaded to database ai_companies_warehouse
+Waktu selesai: 23/07/2026  9:21:34,75 

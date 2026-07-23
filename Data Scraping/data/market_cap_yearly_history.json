@@ -2,8 +2,8 @@
   {
     "ticker": "NVDA",
     "year": 2026,
-    "market_cap": 5174000000000.0,
-    "change_pct_raw": "11.54%"
+    "market_cap": 5136000000000.0,
+    "change_pct_raw": "10.72%"
   },
   {
     "ticker": "NVDA",
@@ -170,8 +170,8 @@
   {
     "ticker": "AAPL",
     "year": 2026,
-    "market_cap": 4764000000000.0,
-    "change_pct_raw": "19.2%"
+    "market_cap": 4786000000000.0,
+    "change_pct_raw": "19.75%"
   },
   {
     "ticker": "AAPL",
@@ -356,8 +356,8 @@
   {
     "ticker": "GOOG",
     "year": 2026,
-    "market_cap": 4224000000000.0,
-    "change_pct_raw": "11.11%"
+    "market_cap": 4172000000000.0,
+    "change_pct_raw": "9.73%"
   },
   {
     "ticker": "GOOG",
@@ -434,8 +434,8 @@
   {
     "ticker": "MSFT",
     "year": 2026,
-    "market_cap": 2886000000000.0,
-    "change_pct_raw": "-20.37%"
+    "market_cap": 2899000000000.0,
+    "change_pct_raw": "-20.02%"
   },
   {
     "ticker": "MSFT",
@@ -620,8 +620,8 @@
   {
     "ticker": "META",
     "year": 2026,
-    "market_cap": 1589000000000.0,
-    "change_pct_raw": "-4.95%"
+    "market_cap": 1592000000000.0,
+    "change_pct_raw": "-4.77%"
   },
   {
     "ticker": "META",
@@ -710,14 +710,14 @@
   {
     "ticker": "SPCX",
     "year": 2026,
-    "market_cap": 1549000000000.0,
+    "market_cap": 1518000000000.0,
     "change_pct_raw": ""
   },
   {
     "ticker": "TSLA",
     "year": 2026,
-    "market_cap": 1411000000000.0,
-    "change_pct_raw": "-10.71%"
+    "market_cap": 1404000000000.0,
+    "change_pct_raw": "-11.12%"
   },
   {
     "ticker": "TSLA",
@@ -818,8 +818,8 @@
   {
     "ticker": "ORCL",
     "year": 2026,
-    "market_cap": 359540000000.0,
-    "change_pct_raw": "-36.8%"
+    "market_cap": 362470000000.0,
+    "change_pct_raw": "-36.28%"
   },
   {
     "ticker": "ORCL",
@@ -1004,8 +1004,8 @@
   {
     "ticker": "PLTR",
     "year": 2026,
-    "market_cap": 297210000000.0,
-    "change_pct_raw": "-33.92%"
+    "market_cap": 298630000000.0,
+    "change_pct_raw": "-33.6%"
   },
   {
     "ticker": "PLTR",
@@ -1046,8 +1046,8 @@
   {
     "ticker": "BABA",
     "year": 2026,
-    "market_cap": 278930000000.0,
-    "change_pct_raw": "-23.21%"
+    "market_cap": 279370000000.0,
+    "change_pct_raw": "-23.09%"
   },
   {
     "ticker": "BABA",
@@ -1124,8 +1124,8 @@
   {
     "ticker": "IBM",
     "year": 2026,
-    "market_cap": 193460000000.0,
-    "change_pct_raw": "-32.16%"
+    "market_cap": 193400000000.0,
+    "change_pct_raw": "-32.18%"
   },
   {
     "ticker": "IBM",
@@ -1310,8 +1310,8 @@
   {
     "ticker": "688256.SS",
     "year": 2026,
-    "market_cap": 121730000000.0,
-    "change_pct_raw": "55.11%"
+    "market_cap": 119910000000.0,
+    "change_pct_raw": "52.79%"
   },
   {
     "ticker": "688256.SS",
@@ -1352,8 +1352,8 @@
   {
     "ticker": "ADBE",
     "year": 2026,
-    "market_cap": 87310000000.0,
-    "change_pct_raw": "-41.82%"
+    "market_cap": 86790000000.0,
+    "change_pct_raw": "-42.17%"
   },
   {
     "ticker": "ADBE",
@@ -1538,20 +1538,20 @@
   {
     "ticker": "2513.HK",
     "year": 2026,
-    "market_cap": 69770000000.0,
+    "market_cap": 71140000000.0,
     "change_pct_raw": ""
   },
   {
     "ticker": "CBRS",
     "year": 2026,
-    "market_cap": 45770000000.0,
+    "market_cap": 46750000000.0,
     "change_pct_raw": ""
   },
   {
     "ticker": "CRWV",
     "year": 2026,
-    "market_cap": 45150000000.0,
-    "change_pct_raw": "18.58%"
+    "market_cap": 45080000000.0,
+    "change_pct_raw": "18.39%"
   },
   {
     "ticker": "CRWV",
@@ -1562,8 +1562,8 @@
   {
     "ticker": "AUR",
     "year": 2026,
-    "market_cap": 13050000000.0,
-    "change_pct_raw": "68.6%"
+    "market_cap": 12960000000.0,
+    "change_pct_raw": "67.46%"
   },
   {
     "ticker": "AUR",
@@ -1598,8 +1598,8 @@
   {
     "ticker": "DT",
     "year": 2026,
-    "market_cap": 12110000000.0,
-    "change_pct_raw": "-9.39%"
+    "market_cap": 12050000000.0,
+    "change_pct_raw": "-9.8%"
   },
   {
     "ticker": "DT",
@@ -1646,7 +1646,7 @@
   {
     "ticker": "0100.HK",
     "year": 2026,
-    "market_cap": 8770000000.0,
+    "market_cap": 9260000000.0,
     "change_pct_raw": ""
   },
   {
@@ -1670,8 +1670,8 @@
   {
     "ticker": "MBLY",
     "year": 2026,
-    "market_cap": 7270000000.0,
-    "change_pct_raw": "-14.19%"
+    "market_cap": 7390000000.0,
+    "change_pct_raw": "-12.8%"
   },
   {
     "ticker": "MBLY",
@@ -1700,8 +1700,8 @@
   {
     "ticker": "0020.HK",
     "year": 2026,
-    "market_cap": 7230000000.0,
-    "change_pct_raw": "-31.76%"
+    "market_cap": 7130000000.0,
+    "change_pct_raw": "-32.73%"
   },
   {
     "ticker": "0020.HK",
@@ -1736,8 +1736,8 @@
   {
     "ticker": "S",
     "year": 2026,
-    "market_cap": 6210000000.0,
-    "change_pct_raw": "21.83%"
+    "market_cap": 6220000000.0,
+    "change_pct_raw": "21.96%"
   },
   {
     "ticker": "S",
@@ -1770,34 +1770,10 @@
     "change_pct_raw": ""
   },
   {
-    "ticker": "PRESIGHT.AE",
-    "year": 2026,
-    "market_cap": 5510000000.0,
-    "change_pct_raw": "7.43%"
-  },
-  {
-    "ticker": "PRESIGHT.AE",
-    "year": 2025,
-    "market_cap": 5130000000.0,
-    "change_pct_raw": "52.75%"
-  },
-  {
-    "ticker": "PRESIGHT.AE",
-    "year": 2024,
-    "market_cap": 3350000000.0,
-    "change_pct_raw": "1.38%"
-  },
-  {
-    "ticker": "PRESIGHT.AE",
-    "year": 2023,
-    "market_cap": 3310000000.0,
-    "change_pct_raw": ""
-  },
-  {
     "ticker": "PATH",
     "year": 2026,
-    "market_cap": 5400000000.0,
-    "change_pct_raw": "-39.98%"
+    "market_cap": 5540000000.0,
+    "change_pct_raw": "-38.44%"
   },
   {
     "ticker": "PATH",
@@ -1830,10 +1806,34 @@
     "change_pct_raw": ""
   },
   {
+    "ticker": "PRESIGHT.AE",
+    "year": 2026,
+    "market_cap": 5510000000.0,
+    "change_pct_raw": "7.43%"
+  },
+  {
+    "ticker": "PRESIGHT.AE",
+    "year": 2025,
+    "market_cap": 5130000000.0,
+    "change_pct_raw": "52.75%"
+  },
+  {
+    "ticker": "PRESIGHT.AE",
+    "year": 2024,
+    "market_cap": 3350000000.0,
+    "change_pct_raw": "1.38%"
+  },
+  {
+    "ticker": "PRESIGHT.AE",
+    "year": 2023,
+    "market_cap": 3310000000.0,
+    "change_pct_raw": ""
+  },
+  {
     "ticker": "064400.KS",
     "year": 2026,
-    "market_cap": 4230000000.0,
-    "change_pct_raw": "2.38%"
+    "market_cap": 4510000000.0,
+    "change_pct_raw": "9.23%"
   },
   {
     "ticker": "064400.KS",
@@ -1844,8 +1844,8 @@
   {
     "ticker": "FRMI",
     "year": 2026,
-    "market_cap": 4200000000.0,
-    "change_pct_raw": "-10.13%"
+    "market_cap": 4190000000.0,
+    "change_pct_raw": "-10.26%"
   },
   {
     "ticker": "FRMI",
@@ -1856,8 +1856,8 @@
   {
     "ticker": "PONY",
     "year": 2026,
-    "market_cap": 2940000000.0,
-    "change_pct_raw": "-54.65%"
+    "market_cap": 2960000000.0,
+    "change_pct_raw": "-54.25%"
   },
   {
     "ticker": "PONY",
@@ -1874,8 +1874,8 @@
   {
     "ticker": "SOUN",
     "year": 2026,
-    "market_cap": 2800000000.0,
-    "change_pct_raw": "-37.63%"
+    "market_cap": 2810000000.0,
+    "change_pct_raw": "-37.39%"
   },
   {
     "ticker": "SOUN",
@@ -1904,8 +1904,8 @@
   {
     "ticker": "UPST",
     "year": 2026,
-    "market_cap": 2750000000.0,
-    "change_pct_raw": "-40.44%"
+    "market_cap": 2740000000.0,
+    "change_pct_raw": "-40.64%"
   },
   {
     "ticker": "UPST",
@@ -1958,8 +1958,8 @@
   {
     "ticker": "INOD",
     "year": 2026,
-    "market_cap": 2010000000.0,
-    "change_pct_raw": "20.65%"
+    "market_cap": 2000000000.0,
+    "change_pct_raw": "19.87%"
   },
   {
     "ticker": "INOD",
@@ -2144,8 +2144,8 @@
   {
     "ticker": "WRD",
     "year": 2026,
-    "market_cap": 1890000000.0,
-    "change_pct_raw": "-36.43%"
+    "market_cap": 1900000000.0,
+    "change_pct_raw": "-36.1%"
   },
   {
     "ticker": "WRD",
@@ -2162,8 +2162,8 @@
   {
     "ticker": "RXRX",
     "year": 2026,
-    "market_cap": 1590000000.0,
-    "change_pct_raw": "-28.13%"
+    "market_cap": 1580000000.0,
+    "change_pct_raw": "-28.6%"
   },
   {
     "ticker": "RXRX",
@@ -2198,8 +2198,8 @@
   {
     "ticker": "BBAI",
     "year": 2026,
-    "market_cap": 1360000000.0,
-    "change_pct_raw": "-45.43%"
+    "market_cap": 1370000000.0,
+    "change_pct_raw": "-44.86%"
   },
   {
     "ticker": "BBAI",
@@ -2234,8 +2234,8 @@
   {
     "ticker": "AI",
     "year": 2026,
-    "market_cap": 1240000000.0,
-    "change_pct_raw": "-36.55%"
+    "market_cap": 1270000000.0,
+    "change_pct_raw": "-35.35%"
   },
   {
     "ticker": "AI",
@@ -2276,8 +2276,8 @@
   {
     "ticker": "WYFI",
     "year": 2026,
-    "market_cap": 1090000000.0,
-    "change_pct_raw": "73.19%"
+    "market_cap": 1070000000.0,
+    "change_pct_raw": "69.69%"
   },
   {
     "ticker": "WYFI",
@@ -2288,8 +2288,8 @@
   {
     "ticker": "ODD",
     "year": 2026,
-    "market_cap": 760000000.0,
-    "change_pct_raw": "-68.37%"
+    "market_cap": 750000000.0,
+    "change_pct_raw": "-68.62%"
   },
   {
     "ticker": "ODD",
@@ -2312,14 +2312,14 @@
   {
     "ticker": "AIAI",
     "year": 2026,
-    "market_cap": 450000000.0,
+    "market_cap": 480000000.0,
     "change_pct_raw": ""
   },
   {
     "ticker": "SERV",
     "year": 2026,
-    "market_cap": 440000000.0,
-    "change_pct_raw": "-41.02%"
+    "market_cap": 450000000.0,
+    "change_pct_raw": "-40.18%"
   },
   {
     "ticker": "SERV",
@@ -2336,8 +2336,8 @@
   {
     "ticker": "CRNC",
     "year": 2026,
-    "market_cap": 420000000.0,
-    "change_pct_raw": "-13.49%"
+    "market_cap": 430000000.0,
+    "change_pct_raw": "-13%"
   },
   {
     "ticker": "CRNC",
@@ -2385,7 +2385,7 @@
     "ticker": "OSS",
     "year": 2026,
     "market_cap": 320000000.0,
-    "change_pct_raw": "86.05%"
+    "change_pct_raw": "82.82%"
   },
   {
     "ticker": "OSS",
@@ -2438,14 +2438,14 @@
   {
     "ticker": "QMLS",
     "year": 2026,
-    "market_cap": 280000000.0,
+    "market_cap": 300000000.0,
     "change_pct_raw": ""
   },
   {
     "ticker": "DUOT",
     "year": 2026,
     "market_cap": 250000000.0,
-    "change_pct_raw": "31.39%"
+    "change_pct_raw": "30.75%"
   },
   {
     "ticker": "DUOT",
@@ -2552,8 +2552,8 @@
   {
     "ticker": "PDYN",
     "year": 2026,
-    "market_cap": 240000000.0,
-    "change_pct_raw": "23.05%"
+    "market_cap": 250000000.0,
+    "change_pct_raw": "25.16%"
   },
   {
     "ticker": "PDYN",
@@ -2588,8 +2588,8 @@
   {
     "ticker": "APX.AX",
     "year": 2026,
-    "market_cap": 170000000.0,
-    "change_pct_raw": "23.01%"
+    "market_cap": 160000000.0,
+    "change_pct_raw": "18.77%"
   },
   {
     "ticker": "APX.AX",
@@ -2660,8 +2660,8 @@
   {
     "ticker": "AIDX.TO",
     "year": 2026,
-    "market_cap": 150000000.0,
-    "change_pct_raw": "-15.74%"
+    "market_cap": 160000000.0,
+    "change_pct_raw": "-15.63%"
   },
   {
     "ticker": "AIDX.TO",
@@ -2733,7 +2733,7 @@
     "ticker": "AMCI",
     "year": 2026,
     "market_cap": 110000000.0,
-    "change_pct_raw": "-36.54%"
+    "change_pct_raw": "-36.28%"
   },
   {
     "ticker": "AMCI",
@@ -2744,8 +2744,8 @@
   {
     "ticker": "ODYS",
     "year": 2026,
-    "market_cap": 77250000.0,
-    "change_pct_raw": "38.53%"
+    "market_cap": 77340000.0,
+    "change_pct_raw": "38.68%"
   },
   {
     "ticker": "ODYS",
@@ -2786,8 +2786,8 @@
   {
     "ticker": "AISP",
     "year": 2026,
-    "market_cap": 70420000.0,
-    "change_pct_raw": "-27.18%"
+    "market_cap": 70600000.0,
+    "change_pct_raw": "-27%"
   },
   {
     "ticker": "AISP",
@@ -2810,8 +2810,8 @@
   {
     "ticker": "NNOX",
     "year": 2026,
-    "market_cap": 69940000.0,
-    "change_pct_raw": "-62.59%"
+    "market_cap": 68130000.0,
+    "change_pct_raw": "-63.56%"
   },
   {
     "ticker": "NNOX",
@@ -2852,8 +2852,8 @@
   {
     "ticker": "HYFT",
     "year": 2026,
-    "market_cap": 67960000.0,
-    "change_pct_raw": "-14.37%"
+    "market_cap": 67260000.0,
+    "change_pct_raw": "-15.26%"
   },
   {
     "ticker": "HYFT",
@@ -2972,8 +2972,8 @@
   {
     "ticker": "STEM",
     "year": 2026,
-    "market_cap": 53870000.0,
-    "change_pct_raw": "-59.92%"
+    "market_cap": 53830000.0,
+    "change_pct_raw": "-59.95%"
   },
   {
     "ticker": "STEM",
@@ -3008,14 +3008,14 @@
   {
     "ticker": "VIDA",
     "year": 2026,
-    "market_cap": 53420000.0,
+    "market_cap": 53620000.0,
     "change_pct_raw": ""
   },
   {
     "ticker": "LGCL",
     "year": 2026,
-    "market_cap": 42780000.0,
-    "change_pct_raw": "587%"
+    "market_cap": 40710000.0,
+    "change_pct_raw": "553.75%"
   },
   {
     "ticker": "LGCL",
@@ -3032,8 +3032,8 @@
   {
     "ticker": "LTRN",
     "year": 2026,
-    "market_cap": 36360000.0,
-    "change_pct_raw": "-6.57%"
+    "market_cap": 36230000.0,
+    "change_pct_raw": "-6.9%"
   },
   {
     "ticker": "LTRN",
@@ -3074,8 +3074,8 @@
   {
     "ticker": "KSCP",
     "year": 2026,
-    "market_cap": 35700000.0,
-    "change_pct_raw": "-21.65%"
+    "market_cap": 35880000.0,
+    "change_pct_raw": "-21.27%"
   },
   {
     "ticker": "KSCP",
@@ -3105,7 +3105,7 @@
     "ticker": "SPPL",
     "year": 2026,
     "market_cap": 32580000.0,
-    "change_pct_raw": "63.11%"
+    "change_pct_raw": "63.1%"
   },
   {
     "ticker": "SPPL",
@@ -3123,6 +3123,48 @@
     "ticker": "SPPL",
     "year": 2023,
     "market_cap": 95890000.0,
+    "change_pct_raw": ""
+  },
+  {
+    "ticker": "AVAI",
+    "year": 2026,
+    "market_cap": 25570000.0,
+    "change_pct_raw": "-38.23%"
+  },
+  {
+    "ticker": "AVAI",
+    "year": 2025,
+    "market_cap": 41400000.0,
+    "change_pct_raw": "-47.66%"
+  },
+  {
+    "ticker": "AVAI",
+    "year": 2024,
+    "market_cap": 79120000.0,
+    "change_pct_raw": "55.96%"
+  },
+  {
+    "ticker": "AVAI",
+    "year": 2023,
+    "market_cap": 50730000.0,
+    "change_pct_raw": "1.55%"
+  },
+  {
+    "ticker": "AVAI",
+    "year": 2022,
+    "market_cap": 49950000.0,
+    "change_pct_raw": "89.84%"
+  },
+  {
+    "ticker": "AVAI",
+    "year": 2021,
+    "market_cap": 26310000.0,
+    "change_pct_raw": "-68.21%"
+  },
+  {
+    "ticker": "AVAI",
+    "year": 2020,
+    "market_cap": 82780000.0,
     "change_pct_raw": ""
   },
   {
@@ -3164,8 +3206,8 @@
   {
     "ticker": "BIRD",
     "year": 2026,
-    "market_cap": 23950000.0,
-    "change_pct_raw": "-27.99%"
+    "market_cap": 24300000.0,
+    "change_pct_raw": "-26.93%"
   },
   {
     "ticker": "BIRD",
@@ -3198,52 +3240,10 @@
     "change_pct_raw": ""
   },
   {
-    "ticker": "AVAI",
-    "year": 2026,
-    "market_cap": 23040000.0,
-    "change_pct_raw": "-44.34%"
-  },
-  {
-    "ticker": "AVAI",
-    "year": 2025,
-    "market_cap": 41400000.0,
-    "change_pct_raw": "-47.66%"
-  },
-  {
-    "ticker": "AVAI",
-    "year": 2024,
-    "market_cap": 79120000.0,
-    "change_pct_raw": "55.96%"
-  },
-  {
-    "ticker": "AVAI",
-    "year": 2023,
-    "market_cap": 50730000.0,
-    "change_pct_raw": "1.55%"
-  },
-  {
-    "ticker": "AVAI",
-    "year": 2022,
-    "market_cap": 49950000.0,
-    "change_pct_raw": "89.84%"
-  },
-  {
-    "ticker": "AVAI",
-    "year": 2021,
-    "market_cap": 26310000.0,
-    "change_pct_raw": "-68.21%"
-  },
-  {
-    "ticker": "AVAI",
-    "year": 2020,
-    "market_cap": 82780000.0,
-    "change_pct_raw": ""
-  },
-  {
     "ticker": "ARAI",
     "year": 2026,
-    "market_cap": 16000000.0,
-    "change_pct_raw": "-85.47%"
+    "market_cap": 15900000.0,
+    "change_pct_raw": "-85.57%"
   },
   {
     "ticker": "ARAI",
@@ -3272,8 +3272,8 @@
   {
     "ticker": "AUID",
     "year": 2026,
-    "market_cap": 13880000.0,
-    "change_pct_raw": "5.32%"
+    "market_cap": 13740000.0,
+    "change_pct_raw": "4.29%"
   },
   {
     "ticker": "AUID",
@@ -3344,8 +3344,8 @@
   {
     "ticker": "BFRG",
     "year": 2026,
-    "market_cap": 11820000.0,
-    "change_pct_raw": "8.82%"
+    "market_cap": 11770000.0,
+    "change_pct_raw": "8.4%"
   },
   {
     "ticker": "BFRG",
@@ -3368,8 +3368,8 @@
   {
     "ticker": "GXAI",
     "year": 2026,
-    "market_cap": 11550000.0,
-    "change_pct_raw": "52.97%"
+    "market_cap": 11490000.0,
+    "change_pct_raw": "52.26%"
   },
   {
     "ticker": "GXAI",
@@ -3392,8 +3392,8 @@
   {
     "ticker": "AIRE",
     "year": 2026,
-    "market_cap": 6830000.0,
-    "change_pct_raw": "-88.76%"
+    "market_cap": 6810000.0,
+    "change_pct_raw": "-88.79%"
   },
   {
     "ticker": "AIRE",
@@ -3416,8 +3416,8 @@
   {
     "ticker": "ORKT",
     "year": 2026,
-    "market_cap": 5830000.0,
-    "change_pct_raw": "20.08%"
+    "market_cap": 5480000.0,
+    "change_pct_raw": "12.87%"
   },
   {
     "ticker": "ORKT",
@@ -3435,7 +3435,7 @@
     "ticker": "VERS.NE",
     "year": 2026,
     "market_cap": 3860000.0,
-    "change_pct_raw": "-85.05%"
+    "change_pct_raw": "-85.03%"
   },
   {
     "ticker": "VERS.NE",
@@ -3464,8 +3464,8 @@
   {
     "ticker": "JTAI",
     "year": 2026,
-    "market_cap": 3650000.0,
-    "change_pct_raw": "18.34%"
+    "market_cap": 3440000.0,
+    "change_pct_raw": "11.43%"
   },
   {
     "ticker": "JTAI",
@@ -3488,8 +3488,8 @@
   {
     "ticker": "FRGT",
     "year": 2026,
-    "market_cap": 1970000.0,
-    "change_pct_raw": "-38.15%"
+    "market_cap": 2030000.0,
+    "change_pct_raw": "-36.17%"
   },
   {
     "ticker": "FRGT",
@@ -3518,8 +3518,8 @@
   {
     "ticker": "AIXI",
     "year": 2026,
-    "market_cap": 1140000.0,
-    "change_pct_raw": "-79.77%"
+    "market_cap": 1160000.0,
+    "change_pct_raw": "-79.28%"
   },
   {
     "ticker": "AIXI",

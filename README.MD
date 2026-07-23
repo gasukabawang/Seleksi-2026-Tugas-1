@@ -84,7 +84,7 @@ Sebelumnya, sempat dipertimbangkan penggunaan Selenium untuk proses scraping tet
 * `ticker` (String): reference ke `companies.json`
 * `industry_name` (String): reference ke `industries.json`
 
-#### 5. `market_cap_snapshots.json`
+#### 4. `market_cap_snapshots.json`
 ```json
 {
   "ticker": "NVDA",
@@ -100,7 +100,7 @@ Sebelumnya, sempat dipertimbangkan penggunaan Selenium untuk proses scraping tet
 * `today_change_pct` (Float): persentase perubahan harga saham dibanding hari sebelumnya
 * `extracted_at` (String, ISO 8601 datetime): tanggal dan waktu data diambil melalui proses scraping
 
-#### 6. `market_cap_yearly_history.json`
+#### 5. `market_cap_yearly_history.json`
 ```json
 {
   "ticker": "NVDA",
@@ -177,6 +177,52 @@ python storing.py
 ```bash
 pg_dump -U postgres -h localhost -p 5432 ai_companies_marketcap > ai_companies_marketcap.sql
 ```
+
+### Final Database Tables
+
+**Query menampilkan seluruh company dari negara tertentu:**
+```sql
+SELECT ma.name, ma.ticker_code, co.country_name
+FROM market_assets ma JOIN companies c ON ma.asset_id = c.asset_id
+JOIN countries co ON ma.country_id = co.country_id
+WHERE co.country_name = 'China';
+```
+
+![Query Countries](Data%20Storing/screenshot/Query%20countries.png)
+
+**Query menampilkan company yang termasuk kategori industri tertentu:**
+```sql
+SELECT ma.name, ma.ticker_code
+FROM market_assets ma JOIN asset_industries ai ON ma.asset_id = ai.asset_id
+JOIN industries i ON ai.industry_id = i.industry_id
+WHERE i.industry_name = 'Software';
+```
+
+![Query Industries](Data%20Storing/screenshot/Query%20industries.png)
+
+**Query menampilkan data market cap snapshot tertinggi:**
+```sql
+SELECT ma.name, mc.market_cap
+FROM market_assets ma JOIN companies c ON ma.asset_id = c.asset_id
+JOIN market_cap_snapshots mc ON c.company_id = mc.company_id
+WHERE mc.market_cap > 1000000000000
+ORDER BY mc.market_cap DESC;
+```
+
+![Query Market Cap Snapshots](Data%20Storing/screenshot/Query%20marketcapsnapshots.png)
+
+**Query menampilkan histori market cap tahunan salah satu company:**
+```sql
+SELECT ma.name, mc.year, mc.market_cap, mc.change_pct
+FROM market_cap_yearly_history mc JOIN companies c ON mc.company_id = c.company_id
+JOIN market_assets ma ON c.asset_id = ma.asset_id
+WHERE ma.name = 'IBM'
+ORDER BY mc.year DESC;
+```
+
+![Query Market Cap Yearly History](Data%20Storing/screenshot/Query%20marketcapyearlyhistory.png)
+```
+
 ## Bonus: Data Warehouse
 
 ### Skema Data Warehouse
@@ -267,9 +313,9 @@ Proses ETL (scraping, storing, warehousing) dijadwalkan berjalan otomatis menggu
 
 ### Cara setup
 
-1. File `run_all.bat` ada di root folder project akan menjalankan `scraper.py`, `storing.py`, dan `warehouse.py` secara berurutan
+1. File `run_all.bat` ada di root folder project akan menjalankan `scraper.py`, `storing.py`, dan `warehouse.py` secara berurutan sambil mencatat log ke `log.txt`
 2. Buka Task Scheduler dan buat task baru dengan action menjalankan `run_all.bat`, dengan trigger daily dan repeat setiap 1 jam
-3. `storing.py` dibuat idempotent (aman dijalankan berkali-kali)
+3. Data yang dihasilkan tiap kali proses ETL berjalan akan otomatis masuk ke database tanpa perlu setup ulang
 
 ### Bukti scheduling berjalan
 
