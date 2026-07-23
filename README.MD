@@ -222,6 +222,7 @@ ORDER BY mc.year DESC;
 
 ![Query Market Cap Yearly History](Data%20Storing/screenshot/Query%20marketcapyearlyhistory.png)
 ```
+```
 
 ## Bonus: Data Warehouse
 
